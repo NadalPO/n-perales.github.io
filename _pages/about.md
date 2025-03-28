@@ -6,7 +6,7 @@ subtitle: PhD candidate at the <a href='https://www.uc3m.es/home'>Universidad Ca
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div class="about-info">
